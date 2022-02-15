@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468557689100",
+    "project_id": "realtime-betting",
+    "storage_bucket": "realtime-betting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468557689100:android:eabfce0784911362fd9929",
+        "android_client_info": {
+          "package_name": "com.ably.realtime_betting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468557689100-vl2uifgafgnagaq7s4nelmlmjfn65p8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtNUnzVDYhEFvDQW3TFT8rJfR2AVPLrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468557689100-vl2uifgafgnagaq7s4nelmlmjfn65p8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
